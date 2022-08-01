@@ -1,5 +1,5 @@
 ## ✨  Oii, eu sou Amanda Carvalheiro Barbosa ✨
-- 🎓 Formação: Engenheira de computação.
+- 🎓 Engenheira de computação.
 - 👩‍💻 Desenolvedora jr.: Atualmente com back-end.
 - 🙂 Pronouns: ela/dela.
 
