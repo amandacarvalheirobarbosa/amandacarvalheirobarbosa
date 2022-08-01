@@ -16,8 +16,6 @@
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Amanda-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Amanda-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  
-  <img align="right" alt="Amanda-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=FJuBiPS3Zf">
 </div>
 
 <div>
