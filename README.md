@@ -1,6 +1,6 @@
 ## ✨  Oii, eu sou Amanda Carvalheiro Barbosa ✨
 - 🎓 Engenheira de computação.
-- 👩‍💻 Desenolvedora jr.: Atualmente com back-end.
+- 👩‍💻 Desenolvedora Junior Full Stack.
 - 🙂 Pronouns: ela/dela.
 
 <div align="center">
