@@ -5,8 +5,12 @@
 <br>
 <h3 align="left"> 🌐 Socials: </h3>
 <div align="left">
-  <a href="https://www.instagram.com/amandacarvalheirobarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-carvalheiro-barbosa-a2060910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/amandacarvalheirobarbosa/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/amanda-carvalheiro-barbosa-a2060910a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank">
+  </a> 
 </div>
 
 <br>
