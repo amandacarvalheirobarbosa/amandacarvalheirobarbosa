@@ -36,5 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
 </div>
 
-![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg) 
-
+![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
