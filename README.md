@@ -1,7 +1,7 @@
-## ✨  Oii, eu sou Amanda Carvalheiro Barbosa ✨
-- 🎓 Engenheira de computação.
-- 👩‍💻 Desenolvedora Junior Full Stack.
-- 🙂 Pronouns: ela/dela.
+## ✨  Oi, eu sou Amanda Carvalheiro Barbosa ✨
+- 🎓 Engenheira de computação (2022).
+- 👩🏻‍💻 Desenolvedora Full Stack (PHP, JavaScript, TypeScript, ReactJS, NextJS, NestJS).
+- 🙋🏻‍♀️ Pronouns: ela/dela.
 
 <div align="center">
   <a href="https://github.com/amandacarvalheirobarbosa">
