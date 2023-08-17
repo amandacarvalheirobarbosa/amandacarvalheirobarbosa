@@ -1,6 +1,6 @@
-<h2> ✨  Hi,  ✨ </h2>
-<p> 🎓 Computer Engineer.  || 👩🏻‍💻 Full Stack Developer. </p>
-<p> I'm Amanda Carvalheiro Barbosa. I have a degree in Computer Engineering and currently work as a full stack developer. </p>
+<h2> ✨  Hi, I'm Amanda Carvalheiro Barbosa. ✨ </h2>
+<p> I graduated in Computer Engineering, fell in love with programming and have been 
+    studying and working in the field ever since. </p>
 
 <br>
 <h3 align="left"> 🌐 Socials: </h3>
