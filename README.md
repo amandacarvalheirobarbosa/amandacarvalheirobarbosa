@@ -1,7 +1,7 @@
 <h2> ✨  Hi, I'm Amanda Carvalheiro Barbosa ✨ </h2>
-- 🎓 Computer Engineer.
-- 👩🏻‍💻 Full Stack Developer.
-- 🙋🏻‍♀️ Pronouns: she/her.
+<p> 🎓 Computer Engineer. </p>
+<p> 👩🏻‍💻 Full Stack Developer. </p>
+<p> 🙋🏻‍♀️ Pronouns: she/her.</p>
 
 <br>
 <h3> 🌐 Socials: </h3>
