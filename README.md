@@ -33,7 +33,7 @@
 
 <br>
 <h3 align="left"> 📊 GitHub Stats: </h3>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=amandacarvalheirobarbosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
 </div>
