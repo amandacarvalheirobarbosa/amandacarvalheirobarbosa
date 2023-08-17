@@ -1,4 +1,4 @@
-## ✨  Oi, eu sou Amanda Carvalheiro Barbosa ✨
+## ✨  Hi, I'm Amanda Carvalheiro Barbosa ✨
 - 🎓 Engenheira da Computação.
 - 👩🏻‍💻 Desenolvedora Full Stack.
 - 🙋🏻‍♀️ Pronouns: ela/dela (she/her).
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/amanda-carvalheiro-barbosa-a2060910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-# 💻 Tech Stack
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -20,6 +20,7 @@
 
 
 ## 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=amandacarvalheirobarbosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
 <div align="center">
   <a href="https://github.com/amandacarvalheirobarbosa">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandacarvalheirobarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
