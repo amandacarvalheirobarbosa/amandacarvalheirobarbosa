@@ -1,7 +1,7 @@
 ## ✨  Hi, I'm Amanda Carvalheiro Barbosa ✨
-- 🎓 Engenheira da Computação.
-- 👩🏻‍💻 Desenolvedora Full Stack.
-- 🙋🏻‍♀️ Pronouns: ela/dela (she/her).
+- 🎓 Computer Engineer.
+- 👩🏻‍💻 Full Stack Developer.
+- 🙋🏻‍♀️ Pronouns: she/her.
 
 ## 🌐 Socials:
 <div>
@@ -18,9 +18,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
-
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=amandacarvalheirobarbosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
+</br>
 <div align="center">
   <a href="https://github.com/amandacarvalheirobarbosa">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandacarvalheirobarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
