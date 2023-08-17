@@ -37,6 +37,4 @@
 </div>
 
 ![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <img src="https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
