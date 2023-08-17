@@ -3,12 +3,14 @@
 - 👩🏻‍💻 Full Stack Developer.
 - 🙋🏻‍♀️ Pronouns: she/her.
 
+<br>
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.instagram.com/amandacarvalheirobarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-carvalheiro-barbosa-a2060910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
 ## 💻 Tech:
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 <div align="center">
@@ -30,11 +32,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
 </div>
 
+<br>
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=amandacarvalheirobarbosa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
 </div>
 
+<br>
 <!-- ![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg) -->
-
