@@ -4,7 +4,7 @@
 - 🙋🏻‍♀️ Pronouns: she/her.
 
 ## 🌐 Socials:
-<div>
+<div align="left">
   <a href="https://www.instagram.com/amandacarvalheirobarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-carvalheiro-barbosa-a2060910a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -36,5 +36,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandacarvalheirobarbosa&theme=neon&hide_border=false"  width="400px" />
 </div>
 
-![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/amandacarvalheirobarbosa/amandacarvalheirobarbosa/blob/output/github-contribution-grid-snake.svg) -->
 
